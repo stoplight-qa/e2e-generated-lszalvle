@@ -1,0 +1,31 @@
+{
+  "name": "E2e Generated Lszalvle",
+  "description": "",
+  "spectralExtends": [],
+  "extends": [
+    "cHJqOjY"
+  ],
+  "formats": [
+    "oas2",
+    "oas3",
+    "oas3.0",
+    "oas3.1"
+  ],
+  "aliases": {},
+  "rules": {},
+  "extendedStyleguides": [
+    {
+      "id": "cHJqOjY",
+      "name": "Refined Concrete Chicken",
+      "slug": "seeded-refined-concrete-chicken-76l07",
+      "workspace": {
+        "slug": "seeded-enterprise",
+        "name": "seeded-enterprise"
+      },
+      "latestRelease": {
+        "release": 1
+      }
+    }
+  ],
+  "extendedDefault": true
+}
